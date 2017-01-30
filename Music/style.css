@@ -1,0 +1,221 @@
+.page{
+  width: 960px;
+  height: 668px;
+  margin: auto;
+}
+.shapka{
+  width: 960px;
+  height: 90px;
+  border-bottom: 1px solid #E0E0E0;;
+
+}
+.logo{
+  float: left;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.logo img{
+  width: 70px;
+  height: 70px;
+}
+.serch{
+  float: left;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+
+.serch input{
+  border: 1px solid #E0E0E0;
+  border-radius: 3px;
+  padding: 10px;
+  height: 35px;
+  font-family: PTSans-Regular;
+  font-size: 14px;
+  color: #B8B8B8;
+  letter-spacing: 0.16px;
+}
+
+
+.profile{
+  float: right;
+  margin-right: 5px;
+  margin-top: 15px;
+}
+
+.avatar{
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.avatar img{
+  width: 40px;
+  height: 40px;
+}
+.select{
+  float: left;
+  margin-top: 25px;
+  outline: none;
+}
+.select select{
+  border: none;
+  -webkit-appearance: none;
+}
+
+.LBox{
+  float: left;
+  width: 660px;
+}
+.popular{
+  float: left;
+  width: 200px;
+  padding-top: 10px;
+}
+h4{
+  font-family: PTSans-Regular;
+  font-size: 14px;
+  color: #646464;
+  letter-spacing: 0.16px;
+}
+.musicBox{
+  float: left;
+  margin-top: 10px;
+  width: 630px;
+  height: 65px;
+}
+.musicBox:hover{
+  border: 1px solid #4A90E2;
+}
+.albom{
+  float: left;
+  margin-left: 5px;
+  margin-top: 20px;
+}
+.albom img{
+  width: 40px;
+  height: 40px;
+}
+.actor{
+  float: left;
+  margin-top: 25px;
+  margin-left: 15px
+}
+.mName{
+  font-family: PTSans-Bold;
+  font-size: 14px;
+  color: #646464;
+  letter-spacing: 0.16px;
+}
+.artist{
+  font-family: PTSans-Regular;
+  font-size: 10px;
+  color: #646464;
+  letter-spacing: 0.11px;
+}
+.time{
+  float: right;
+  padding-right: 10px;
+  margin-top: 30px;
+  font-family: PTSans-Regular;
+  font-size: 10px;
+  color: #646464;
+  letter-spacing: 0.11px;
+}
+
+.RBox{
+  float: right;
+  margin-left: -2px;
+  width: 300px;
+  border-left: 1px solid #E0E0E0;
+}
+.image{
+  padding-top: 30px;
+}
+.image img{
+  width: 240px;
+  height: 240px;
+}
+.musicName{
+  margin-top: 20px;
+  font-family: PTSans-Bold;
+  font-size: 20px;
+  color: #646464;
+  letter-spacing: 0.23px;
+}
+.Aname{
+  margin-top: 10px;
+  font-family: PTSans-Regular;
+  font-size: 14px;
+  color: #646464;
+  letter-spacing: 0.16px;
+}
+
+.Ltime{
+  float: left;
+  padding-left: 20px;
+  font-family: PTSans-Regular;
+  font-size: 9px;
+  color: #646464;
+}
+hr{
+  background-color: #f2e6e6;
+  border-radius: 20px;
+  width: 250px;
+  height: 4px;
+}
+.Rtime{
+  float: right;
+  padding-right: 20px;
+  font-family: PTSans-Regular;
+  font-size: 9px;
+  color: #646464;
+}
+.text{
+    padding-left: 15px;
+    margin-top: 130px;
+    border-bottom: 1px solid #E0E0E0;
+
+}
+.music{
+  width: 295px;
+  height: 65px;
+  padding-left: 15px
+}
+.picture{
+  margin-top: 15px;
+  float: left;
+}
+.picture img{
+  width: 40px;
+  height: 40px;
+}
+
+.clock{
+  float: right;
+  margin-top: 30px;
+  padding-right: 10px;
+  font-family: PTSans-Regular;
+  font-size: 10px;
+  color: #646464;
+}
+.player{
+  float: left;
+  width: 300px;
+  height:60px;
+  margin-top: 20px;
+  margin-left: 55px;
+}
+.Lbutton{
+  float: left;
+  margin-top: 5px;
+}
+
+.play{
+  float: left;
+  margin-left: 10px;
+}
+
+.Rbutton{
+  float: left;
+  margin-top: 5px;
+  margin-left: 10px;
+}
